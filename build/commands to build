@@ -1,0 +1,3 @@
+In the path with r.j file
+please type following commands
+node build\r.js -o build\build-config.js
